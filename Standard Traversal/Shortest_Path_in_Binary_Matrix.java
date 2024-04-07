@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-class Solution {
+class Shortest_Path_in_Binary_Matrix {
     public class path {
         int x;
         int y;
